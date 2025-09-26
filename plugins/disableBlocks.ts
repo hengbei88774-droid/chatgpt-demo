@@ -13,5 +13,5 @@ export default function plugin() {
     enforce: 'pre',
     transform,
   }
-  
+  //尝试从远程仓库拉取到本地仓库
 }
