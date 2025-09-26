@@ -13,5 +13,5 @@ export default function plugin() {
     enforce: 'pre',
     transform,
   }
-  哈哈哈哈
+  
 }
